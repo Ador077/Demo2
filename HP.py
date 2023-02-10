@@ -489,10 +489,11 @@ banner = """
  / ___ / /___  / / _/ // /_/ / /|  /_____/ __/ _/ // _, _/ /___   
 /_/  |_\____/ /_/ /___/\____/_/ |_/     /_/   /___/_/ |_/_____/   
                                                                                                                                             
+
 ╔════════════════════════════════════════╗
 ║[•] Author      : Ft Alvi               ║
 ║[•] Facebook    : Ft Alvi               ║ 
-║[•] Github      : github.com/ACTION-FIRE       ║
+║[•] Github      : github.com/ACTION-FIRE║
 ║[•] Status    	 : Premium               ║
 ║[•] Network     : 3G, 4G/5G, ON         ║
 ║[•] Version  	 : V:2.0                 ║
